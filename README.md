@@ -1,3 +1,3 @@
 # Repositorio-DIO
 Primeiro desafio do Bootcamp de Java da plataforma DIO
-Utilizando GIT e Github
+Criar um Repositorio utilizando GIT e Github
